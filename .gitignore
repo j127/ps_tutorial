@@ -1,6 +1,8 @@
 .env
 dist/
 build/
+.psci_modules
+.spago
 
 *.bak
 *.orig
