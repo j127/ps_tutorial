@@ -3,6 +3,7 @@ dist/
 build/
 .psci_modules
 .spago
+output/
 
 *.bak
 *.orig
@@ -61,3 +62,4 @@ my_app-*.tar
 # we ignore priv/static. You may want to comment
 # this depending on your deployment strategy.
 /priv/static/
+.psc-ide-port
